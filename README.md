@@ -48,25 +48,58 @@
     * Darcs
     * Git
   * Repository or Repo(저장소)
-
+  * General Actions in VCS
+    * Checkin
+    * Checkout and editing
+    * Diffs
+    * Branching
+    * Merging
+    * Conflicts
+    * Tagging
+  * VCS는 주로 Centralized VCS와 Decentralized(Distributed) VCS
+    * Git은 Decentralized(Distributed) VCS에 해당한다.
 
 -------------
 ### Week2-2 Git
-* 이런내용
-* 저런내용
-
-![Image] (그림.png)
+* Linus Torvalds: For collaboration of development of Linux kernel
+* A distributed version control system
+  * Workspace
+  * Index
+  * Local repository
+  * Remote repository
+ 
+* Workflow(git에서 사용하는 명령어)
+![workflow of Git](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA2MDhfMjYg%2FMDAxNzE3ODQzNzAwNDIy.V6hIcccYpr5ZuY0MwdAAZKU4boF6IRM1sNgc6mnWwmEg.2i90U6w8FTrrvrmcdA3ag1LlKUK6KfyPFys9U26Ld6Yg.PNG%2Fimage.png&type=sc960_832)
 
 -------------
-### Week2-3 Github, fork, pull request
-* 이런내용
-  > 그런데 이런거
-* 저런내용
-  > 그런데 저런거
+### Week2-3 Github, fork, pull request  
+Github 명령어 연습  
+#### Basic  
+> 실습 전 설정
+> Stage 1: 초기화 및 첫 commit 하기  
+> Stage 2: diff 사용과 추가 commit 하기  
+> Stage 3: commit 에 본인서명 포함하기    
+> Stage 4: 지금까지의 commit을 push하자  
+> Stage 5: 커밋 수정하기  
+> Stage 6: add 한거 취소하기  
+> Stage 7: commit 한거 없애기  
+> Github에서 fork하기
 
-[My Github Blog](https://github.com/kkanuseobin)
+#### Advanced  
+> Stage 8: pull-request 하기  
+> Stage 9: merge로 2개 브랜치 합치기  
+> Stage 10: rebase 하기  
+> Stage 11: 중간에 낀 commit 수정하기  
+> Bonus Stage: blame으로 추적하기
+
+#### [Come to My Github Blog](https://github.com/kkanuseobin)
 
 -------------
 ### Week3     Markdown
-* 이런내용
-* 저런내용
+* _Italics and Bold_
+* _Headers_
+* _Links_
+* _Images_
+* _Blockquotes_
+* _Lists_
+* _Paragraphs_
